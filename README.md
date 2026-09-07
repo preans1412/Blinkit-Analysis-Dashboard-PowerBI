@@ -55,7 +55,6 @@ The analysis provides insights into:
 * **Power BI** — Data visualization, dashboard development, and reporting
 * **Power Query** — Data cleaning and transformation
 * **DAX** — Calculated measures and KPI development
-* **SQL** — Data querying and analysis
 
 ## 📁 Repository Structure
 
