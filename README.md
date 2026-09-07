@@ -28,7 +28,7 @@ The dashboard transforms raw sales data into interactive visualizations and KPIs
 
 ### Dashboard Preview
 
-![Blinkit Sales Analysis Dashboard](images/dashboard.png)
+![Blinkit Sales Analysis Dashboard](Images/dashboard.png)
 
 The dashboard includes:
 
